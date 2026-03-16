@@ -1,0 +1,5 @@
+.venv/
+.claude/
+transcript_*.txt
+*.json3
+__pycache__/
