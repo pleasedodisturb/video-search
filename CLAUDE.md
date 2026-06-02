@@ -4,6 +4,8 @@
 
 Searches YouTube video transcripts for keyword mentions, returning timestamps with clickable links.
 
+This file does not restate global rules — read `~/.claude/CLAUDE.md` first.
+
 ## Prerequisites
 
 - `yt-dlp` installed (`brew install yt-dlp`)
